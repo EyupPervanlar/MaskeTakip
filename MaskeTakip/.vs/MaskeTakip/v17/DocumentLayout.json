@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEDBA18-8698-473E-B83E-C85BBE2EB173}|ConsoleApp1\\Workaround.csproj|c:\\users\\sago\\documents\\github\\repository\\masketakip\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEDBA18-8698-473E-B83E-C85BBE2EB173}|ConsoleApp1\\Workaround.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F481801C-CA09-47ED-8578-5A52AC12BAFE}|Business\\Business.csproj|c:\\users\\sago\\documents\\github\\repository\\masketakip\\business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F481801C-CA09-47ED-8578-5A52AC12BAFE}|Business\\Business.csproj|solutionrelative:business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F481801C-CA09-47ED-8578-5A52AC12BAFE}|Business\\Business.csproj|c:\\users\\sago\\documents\\github\\repository\\masketakip\\business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F481801C-CA09-47ED-8578-5A52AC12BAFE}|Business\\Business.csproj|solutionrelative:business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F481801C-CA09-47ED-8578-5A52AC12BAFE}|Business\\Business.csproj|c:\\users\\sago\\documents\\github\\repository\\masketakip\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F481801C-CA09-47ED-8578-5A52AC12BAFE}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F481801C-CA09-47ED-8578-5A52AC12BAFE}|Business\\Business.csproj|c:\\users\\sago\\documents\\github\\repository\\masketakip\\business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F481801C-CA09-47ED-8578-5A52AC12BAFE}|Business\\Business.csproj|solutionrelative:business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F481801C-CA09-47ED-8578-5A52AC12BAFE}|Business\\Business.csproj|c:\\users\\sago\\documents\\github\\repository\\masketakip\\business\\connected services\\mernisservicereference\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F481801C-CA09-47ED-8578-5A52AC12BAFE}|Business\\Business.csproj|solutionrelative:business\\connected services\\mernisservicereference\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A392BA6-1B34-4AF3-A5B3-057340454588}|Entities\\Entities.csproj|c:\\users\\sago\\documents\\github\\repository\\masketakip\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A392BA6-1B34-4AF3-A5B3-057340454588}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Business\\Connected Services\\MernisServiceReference\\Reference.cs",
+              "RelativeDocumentMoniker": "Business\\Connected Services\\MernisServiceReference\\Reference.cs",
+              "ToolTip": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Business\\Connected Services\\MernisServiceReference\\Reference.cs",
+              "RelativeToolTip": "Business\\Connected Services\\MernisServiceReference\\Reference.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAADwv6QAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:25:13.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ISupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:56:47.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForeignerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ForeignerManager.cs",
+              "ToolTip": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ForeignerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:10:31.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApplicantService.cs",
+              "DocumentMoniker": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IApplicantService.cs",
+              "ToolTip": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IApplicantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:01:06.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PttManager.cs",
+              "DocumentMoniker": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PttManager.cs",
+              "ToolTip": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PttManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:52:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwDMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:39:59.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
+              "ToolTip": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:38:07.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
